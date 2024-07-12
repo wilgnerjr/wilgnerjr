@@ -4,7 +4,7 @@
 
 ### Minhas Redes Sociais Para Contato
 
-<br>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilgnerjr/)
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/wilgner2003)
